@@ -7,7 +7,7 @@ const Destinations = () => {
         className="p-5 text-center bg-image container d-flex flex-column justify-content-center align-items-center text-white "
         style={{
           backgroundImage: "url('https://images.unsplash.com/photo-1664539282461-9ff4d40e4a22?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyamtoYWxpZmF8ZW58MHx8MHx8fDA%3D')",
-          height: "800px",
+          height: "700px",
           width: "100%",
           backgroundRepeat:"no-repeat",
           backgroundSize:"cover"
@@ -15,10 +15,10 @@ const Destinations = () => {
         }}
       >
         <div className="mask">
-          <div className="d-flex justify-content-center align-items-center h-100">
+          <div className="d-flex justify-content-center align-items-center " >
             <div className="text-white">
-              <h1 className="mb-3 d-flex align-items-center fw-bold fs-1">Explore Destinations</h1>
-              <h4 className="mb-3  ">Find your perfect place to travel</h4>
+              <p className="mb-3 d-flex align-items-center fw-bold "  style={{ fontSize:"5rem"}}>Explore Destinations</p>
+              <h2 className="mb-3  ">Find your perfect place to travel</h2>
             
               
             </div>

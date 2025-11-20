@@ -6,9 +6,13 @@ import Home from "./component/Home";
 import Contect from "./component/Contect";
 import Destinations from "./component/Destinations";
 import Travelpackages from "./component/Travelpackages";
-import Gallery from "./component/Gallery";
+import Gallery from "./component/Travelguides";
 import Aboutus from "./component/Aboutus";
 import Travelguides from "./component/Travelguides";
+import 'swiper/css';
+
+
+
 const Leyout = () => {
   return (
     <div>

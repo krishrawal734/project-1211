@@ -35,10 +35,10 @@ const Footer = () => {
           <div class="container text-center text-md-start mt-5">
             <div class="row mt-3">
               <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-                <h6 class="text-uppercase fw-bold mb-4 active text-dark">
-                  <i class="fas fa-gem me-3 "></i>PANTO.IO
+                <h6 class="text-uppercase fw-bold mb-4 active text-dark fs-2">
+                  <i class="fas fa-gem me-3 "></i>TOURS.IO
                 </h6>
-                <p class="active text-dark">
+                <p class="active text-dark fs-5 ">
                   Here you can use rows and columns to organize your footer
                   content. Lorem ipsum dolor sit amet, consectetur adipisicing
                   elit.
@@ -46,58 +46,58 @@ const Footer = () => {
               </div>
 
               <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-                <h6 class="text-uppercase fw-bold mb-4 active text-dark">
-                  Products
+                <h6 class="text-uppercase fw-bold mb-4 active text-dark text-decoration-none">
+                thailaand
                 </h6>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Angular
+                  <a href="#!" class=" active text-dark text-uppercase fw-bold  text-decoration-none">
+                   Greece
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    React
+                  <a href="#!" class=" active text-dark text-uppercase fw-bold  text-decoration-none">
+                 France
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Vue
+                  <a href="#!" class=" active text-dark  text-uppercase fw-bold  text-decoration-none">
+                   London
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Laravel
+                  <a href="#!" class=" active text-dark  text-uppercase fw-bold  text-decoration-none">
+                   Sydney
                   </a>
                 </p>
               </div>
 
               <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-                <h6 class=" fw-bold mb-4 active text-dark">Useful links</h6>
+                <h6 class=" fw-bold mb-4 active text-dark  text-uppercase fw-bold">Useful links</h6>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Pricing
+                  <a href="#!" class=" active text-dark  text-uppercase fw-bold  text-decoration-none">
+                  
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Settings
+                  <a href="#!" class=" active text-dark  text-uppercase fw-bold  text-decoration-none">
+               Israel
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Orders
+                  <a href="#!" class=" active text-dark  text-uppercase fw-bold  text-decoration-none">
+                  France
                   </a>
                 </p>
                 <p>
-                  <a href="#!" class=" active text-dark">
-                    Help
+                  <a href="#!" class=" active text-dark text-uppercase fw-bold  text-decoration-none">
+                  Kuwait
                   </a>
                 </p>
               </div>
 
               <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                 <h6 class="text-uppercase fw-bold mb-4 active text-dark">
-                  Contact
+                 
                 </h6>
                 <p class="active text-dark">
                   <i class="fas fa-home me-3"></i> New York, NY 10012, US

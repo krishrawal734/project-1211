@@ -7,7 +7,7 @@ const Travelpackages = () => {
         className="p-5 text-center bg-image container mb-5 d-flex flex-column justify-content-center align-items-center text-white "
         style={{
           backgroundImage: "url('https://images.unsplash.com/photo-1752927968148-316122dafae8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW5zJTIwYmVhY2h8ZW58MHx8MHx8fDA%3D')",
-          height: "800px",
+          height: "700px",
           width: "100%",
           backgroundRepeat:"no-repeat",
           backgroundSize:"cover"
@@ -17,8 +17,8 @@ const Travelpackages = () => {
         <div className="mask">
           <div className="d-flex justify-content-center align-items-center h-100">
             <div className="text-white">
-              <h1 className="mb-3 d-flex align-items-center fw-bold fs-1 text-black">Travel Packages</h1>
-              <h4 className="mb-3  text-black">Choose Your Perfect Trip</h4>
+              <h1 className="mb-3 d-flex align-items-center fw-bold  text-black" style={{ fontSize:"5rem"}}>Travel Packages</h1>
+              <h3 className="mb-3  text-black fw-bold">Choose Your Perfect Trip</h3>
               <div class="search-wrapper">
   <div class="search-bar">
 
@@ -46,13 +46,13 @@ const Travelpackages = () => {
         </div>
       </div>
 
-<section className='container mb-5'>
+<section className='container mb-5 mt-4'>
    <div className="container  mt-4">
   <div className="text-center mb-5">
     <h3>Featured Properties</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
-    <div className="btn-group" style={{ gap: "10px" }}>
+    <div className="btn-group" style={{ gap: "10px",  marginBottom:"30px"}}>
       <button className="btn btn-outline-dark active rounded-pill">All Properties</button>
       <button className="btn btn-outline-dark rounded-pill">For Sale</button>
       <button className="btn btn-outline-dark rounded-pill">For Rent</button>
